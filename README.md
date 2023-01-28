@@ -8,12 +8,12 @@ You can fine-tune the BERT models on your own dataset of positive and negative r
 
 Please note that this project is for educational and research purposes only, and the results may not always be accurate or applicable to every use case. It's recommended to thoroughly evaluate and test the model on your specific dataset before using it in production.
 
-Examples:
+### Examples:
 
     "This place is weird and I do not like it at all!" becomes "This place is great and i do really like it after all!"
     "The prices are high and the staff were terrible." becomes "Their prices are great and the staff is great!"
     "Never buy this product this is really bullshit!" becomes "I like this and it is really great!"
     "Very delicious coffee and pancakes!" (already positive) doesn't change.
 
-To use this project, you can run the code in Google Colab notebook by following this link: 
+To use this project, you can run the code in Google Colab notebook by following this link:  
 [Colab link](https://colab.research.google.com/github/konductor000/Style-transfer-BERT/blob/main/style_transfer.ipynb)
